@@ -129,6 +129,7 @@ q := ch.Query{
 * Nullable(T)
 
 ## TODO
+- [ ] DateTime64: support more precisions
 - [ ] Connection pools
 - [ ] TLS
 - [ ] API UX Improvements (with 1.18 generics?)
